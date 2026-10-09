@@ -1,0 +1,122 @@
+{
+  "updates": {
+    "dmidecode": {
+      "type": "package",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "glib2.0": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "krb5": {
+      "type": "package",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "libauthen-sasl-perl": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "bubblewrap": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "libxml2": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "gst-plugins-base1.0": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "aom": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "libheif": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "libpciaccess": {
+      "type": "package",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "expat": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "alsa-ucm-conf": {
+      "type": "package",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "libpng1.6": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "freetype": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "requests": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "apparmor": {
+      "type": "package",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "librsvg": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "libxpm": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "libarchive": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "gst-plugins-good1.0": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "sqlite3": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "pyjwt": {
+      "type": "security",
+      "since": "2026.10.09",
+      "days": 1
+    },
+    "linux": {
+      "type": "kernel",
+      "since": "2026.10.09",
+      "days": 1
+    }
+  },
+  "version": 1,
+  "checked": "2026.10.09",
+  "notified": "2026.10.09"
+}
